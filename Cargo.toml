@@ -1,6 +1,6 @@
 [package]
 name = "date-parse"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Bryan K"]
 description = "Parses date of format YYYYMMDD-HHMMSS to unix time with milliseconds"
