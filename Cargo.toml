@@ -2,6 +2,9 @@
 name = "date-parse"
 version = "1.0.0"
 edition = "2021"
+authors = ["Bryan K"]
+description = "Parses date of format YYYYMMDD-HHMMSS to unix time with milliseconds"
+license = "MIT"
 
 [dependencies]
 chrono = "0.4"
